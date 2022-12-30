@@ -1,2 +1,0 @@
-# klakeaw-School
-klakeaw ระบบโรงเรียน
